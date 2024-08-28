@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221801700856",
+    "project_id": "store-app-b20e4",
+    "storage_bucket": "store-app-b20e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221801700856:android:b7d26c4472ecfb7f2d0a0d",
+        "android_client_info": {
+          "package_name": "com.example.store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3TncMtLD92m9IHO7WeDRpJXDugaUVOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
